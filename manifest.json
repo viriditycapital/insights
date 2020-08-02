@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Viridity Insights",
+  "name": "Blog for Viridity Capital",
   "icons": [
     {
-      "src": "../src/viridity_icon.png",
+      "src": "./viridity_icon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
