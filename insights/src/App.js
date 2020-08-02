@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '.img/viridity_icon.png';
+import logo from './img/viridiy_icon.png';
 import './App.css';
 
 function App() {
