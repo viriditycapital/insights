@@ -1,12 +1,11 @@
 import React from 'react';
-import logo from './img/viridiy_icon.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={'img/viridity_logo.png'} className="App-logo" alt="logo" />
         <p>
           Coming soon: insights and analysis from the team at Viridity Capital
         </p>
