@@ -5,7 +5,7 @@
     {
       "src": "./viridity_icon.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "95x94"
     }
   ],
   "start_url": ".",
