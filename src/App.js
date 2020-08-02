@@ -1,6 +1,6 @@
 import React from 'react';
-import viridity_icon from './viridity_large.png'
-import './App.css';
+import viridity_icon from './viridity_large.png';
+import './App.scss';
 
 function App() {
   return (

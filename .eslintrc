@@ -8,7 +8,10 @@
     "node": true,
     "jquery": true
   },
-  "extends": "eslint:recommended",
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended"
+  ],
   "rules": {
     "indent": ["error", 2],
     "newline-per-chained-call": "error",
