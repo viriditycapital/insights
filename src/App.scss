@@ -33,16 +33,17 @@
 
 
 .blog {
-  font-size: 12;
+  font-size: 16px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+  align-items: center;
   text-align: left;
 }
 
 .blog-post {
   text-emphasis: bold;
-  margin-right: auto;
-  margin-left: 1vw;
+
+  width: 50%;
 }
 
